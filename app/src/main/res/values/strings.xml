@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coroutines</string>
+    <string name="click_here">click Here</string>
+    <string name="download_user_data">download User Data</string>
+</resources>
